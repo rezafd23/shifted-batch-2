@@ -1,13 +1,11 @@
 Data CV:
-Nama:Andi Gilang Fajar Ramadhan
-Contact {
-	NoHP : 081234567890
-	Email : abcd@abcd.com
+Name:Reza Fadilah Dwiputra
+Contact:{
+	NoHP : 085353444497
+	Email : rezafd23@gmail.com
 	}
-Education: Universitas Putra Indonesia YPTK Padang - Jurusan Sistem Informasi
-Skill: 
-Leadership (Advance)
-Negotiation (Intermediate)
-Analysis (Advance)
-Teaching (Advance)
+Education: Informatics - Institut Teknologi Nasional Bandung
+Skills:{
+	Language: Indonesia (Native), English (Profesional), German (Elementary),
+	Programming: Java, Javascript, Python} 
 Experience: Dosen tidak tetap basis data, Android Developer.
