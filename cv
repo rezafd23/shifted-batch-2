@@ -1,4 +1,5 @@
 Data CV:
+<<<<<<< HEAD
 Nama : Wahyu Fajri Widagdo
 Panggilan : Edo
 Contact :
@@ -15,3 +16,34 @@ Experience:
 	Web Developement
 	Mentor Web Development with Laravel
 	Full Stack Web Developer
+=======
+
+Name:Reza Fadilah Dwiputra
+Contact:{
+	NoHP : 085353444497
+	Email : rezafd23@gmail.com
+	}
+Education: Informatics - Institut Teknologi Nasional Bandung
+Skills:{
+	Language: Indonesia (Native), English (Profesional), German (Elementary),
+	Programming: Java, Javascript, Python, PHP, SQL} 
+Experience: Dosen tidak tetap basis data, Android Developer.
+
+
+Nama:Andi Gilang Fajar Ramadhan
+Contact:andigilangfajarramadhan@gmail.com
+Education:Teknik Informatika, Universitas Gunadarma. Bekasi
+Skill:Android Dev
+Expirience:Intern Trans Tv, Internal Audit
+
+Nama:Alfisyahri Batubara
+Contact {
+	NoHP : 082283751462
+	Email : alfisyahrib@gmail.com
+	}
+Education: Universitas Putra Indonesia YPTK Padang - Jurusan Sistem Informasi
+Skill: 
+HTML, CSS, Javascript, PHP, Java, C, C++, VB (Intermediate)
+Office (Intermediate)
+Experience: 
+>>>>>>> 4fe190d770a43cd5ac57c81060fdd44f13228b34
