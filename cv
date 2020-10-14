@@ -1,6 +1,9 @@
 Data CV:
 Nama:Andi Gilang Fajar Ramadhan
-Contact:
+Contact {
+	NoHP : 081234567890
+	Email : abcd@abcd.com
+	}
 Education: Universitas Putra Indonesia YPTK Padang - Jurusan Sistem Informasi
 Skill: 
 Leadership (Advance)
