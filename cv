@@ -1,4 +1,5 @@
 Data CV:
+<<<<<<< HEAD
 Nama:Alfisyahri Batubara
 Contact {
 	NoHP : 082283751462
@@ -9,3 +10,21 @@ Skill:
 HTML, CSS, Javascript, PHP, Java, C, C++, VB (Intermediate)
 Office (Intermediate)
 Experience: 
+=======
+Nama : Wahyu Fajri Widagdo
+Panggilan : Edo
+Contact :
+	NoHP : 081277366617
+	Email : wahyuwidagdo31@gmail.com
+Education: Universitas Putra Indonesia YPTK Padang - Jurusan Teknik Informatika
+Skill: 
+	PHP
+	Laravel
+	Ruby on Rails
+	Git
+	MySQL
+Experience: 
+	Web Developement
+	Mentor Web Development with Laravel
+	Full Stack Web Developer
+>>>>>>> 1c96ab751b4bf2a804c2a9a02b4a54deacaa91c3
